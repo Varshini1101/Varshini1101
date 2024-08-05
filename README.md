@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Raga Varshini Vadlamudi</h1>
-<h3 align="center">skilled Software Engineer with over 3 years of extensive experience in developing and optimizing software applications. Proficient in various technologies, including Java, Python, Go, and cloud services such as AWS. Experienced in creating and implementing CI/CD pipelines, enhancing performance and reliability of applications. Strong background in collaborating with cross-functional teams in agile environments. Certified AWS Solutions Architect with a Master’s degree in Information Technology and Management from the University of Texas at Dallas. Actively seeking an opportunity to contribute to a dynamic team and drive innovative software solutions.</h3>
+<h3 align="center">I am a Skilled Software Engineer with over 3 years of extensive experience in developing and optimizing software applications. Proficient in various technologies, including Java, Python, Go, and cloud services such as AWS. Experienced in creating and implementing CI/CD pipelines, enhancing performance and reliability of applications. Strong background in collaborating with cross-functional teams in agile environments. Certified AWS Solutions Architect with a Master’s degree in Information Technology and Management from the University of Texas at Dallas. Actively seeking an opportunity to contribute to a dynamic team and drive innovative software solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
